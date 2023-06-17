@@ -8,3 +8,9 @@ https://replit.com/@omer2oo7/UnimportantMistyroseSystemcall - a solution in java
 
 code is in "base.asm" and uses most of the files but not all.
 i used DOSbox to run the program and wrote it inside of VScode (it cannot run with the images in VS code)
+
+to use the program you need to enter a number up to 15  and i will create a board by that inputed number(no need to press enter)
+you can click on a square and if it follows the chess knight moving it will color that square blue
+the point of the game is to make the whole board blue
+
+on the right you can restart the program to input a number again and on the left you can tell the computer to solve it when i finishes solving it restarts
